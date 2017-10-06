@@ -2,7 +2,7 @@
 
 Uóli Software System
 
-### brief description
+### Brief description
 
 This project contains all the layers (control logic, control library and operating system) to run on an ARM processor and control the robot "Uóli".
 
@@ -20,6 +20,6 @@ The SOUL sublayer manages system hardware and provides services for the BiCo sub
 
 ## Authors
 
-* **Heitor Boschirolli** - [PurpleBooth](https://github.com/HeitorBoschirolli)
+* **Heitor Boschirolli** - [HeitorBoschirolli](https://github.com/HeitorBoschirolli)
 * **Daniel Helu Prestes de Oliveira**
 
