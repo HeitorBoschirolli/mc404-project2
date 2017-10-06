@@ -1,6 +1,4 @@
-# Project Title
-
-Uóli Software System
+# Uóli Software System
 
 ### Brief description
 
